@@ -112,10 +112,10 @@ Before we start, we would recommend following stack:
 
 1.  [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 2.  Your favorite Terminal
-3.  [VS Code](https://code.visualstudio.com/)
-    1.  [Bash Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-shellscript-syntax)
-    2. [Dockerfile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
-    3. Optional: [Docker Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+3.  Code Editor: [VS Code](https://code.visualstudio.com/)
+    1. Extention: [Bash Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-shellscript-syntax)
+    2. Extention: [Dockerfile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
+    3. Optional Extention: [Docker Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
 
 ```mermaid
