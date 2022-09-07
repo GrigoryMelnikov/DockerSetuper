@@ -1,0 +1,13 @@
+version: '3'
+services:
+  jupyter:
+    image: mkwp/ds:jupyter0.1
+    # build: .
+    ports:
+      - "8880:8880"
+    volumes:
+      - .:/mnt/code
+      # - C:\:/mnt/s883
+    command: /bin/bash /usr/entrypoint.sh
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
