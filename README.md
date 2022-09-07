@@ -117,6 +117,9 @@ Before we start, we would recommend following stack:
     2. Extention: [Dockerfile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
     3. Optional Extention: [Docker Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
+## Small tutorial before we start
+If you still fill uncofortable with docker you are welcome to create basic Container with `Hello World` Image: https://hub.docker.com/_/hello-world.
+
 ## Workflow
 
 ```mermaid

@@ -15,7 +15,7 @@ Once you got archive, send it to albana. Open the ticket on `Site` from your wor
 
 > `put the link here`
 
-You'll get a mial once your image arrived to workstation.
+You'll get a mail once your image arrived to workstation.
 
 ## Load Image
 
