@@ -30,6 +30,7 @@ Project was brought to organize uniform work environment in one particular manur
     - `Basic Installation DepTree.txt` : file with image discription.
 
 # Introduction to develompent
+
 First, refresh this one https://www.baeldung.com/ops/docker-images-vs-containers.
 
 In order build image with this project you have to supply 3 files to `buildContainerFrom.sh` script. Them are `Dockerfile`, `docker-compose.yaml` and `entrypoint.sh`.
@@ -105,6 +106,17 @@ Please see https://stackoverflow.com/questions/47671589/how-can-i-run-script-aut
 &nbsp;   Check out existing `docker-compose.yaml` inside `./Docker-Compose/` directory
 
 # __How to use__
+
+### Installations: 
+Before we start, we would recommend following stack: 
+
+1.  [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+2.  Your favorite Terminal
+3.  [VS Code](https://code.visualstudio.com/)
+    1.  [Bash Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-shellscript-syntax)
+    2. [Dockerfile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
+    3. Optional: [Docker Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
 
 ```mermaid
 graph TD
