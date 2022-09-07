@@ -5,7 +5,7 @@
 
 ## General Explanation
 
-Project was brought to simplify and organize uniform work environment in one particular manure.  
+Project was brought to organize uniform work environment in one particular manure.  
 
 ## Folder organization
 - `Dev` : Directory with usefull script during new Image production
@@ -68,6 +68,8 @@ In order build image with this project you have to supply 3 files to `buildConta
        it will start running from entrypoint.sh Bash script.
 
 ```bash
+#!bin/bash
+
 echo 'Example of entrypoint: run Jupyter on start'
 
 jupyter notebook --allow-root --no-browser --ip=0.0.0.0 --port=8880
