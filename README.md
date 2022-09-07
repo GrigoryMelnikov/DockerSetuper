@@ -107,7 +107,7 @@ Please see https://stackoverflow.com/questions/47671589/how-can-i-run-script-aut
 
 # __How to use__
 
-### Installations: 
+## Installations 
 Before we start, we would recommend following stack: 
 
 1.  [Docker Desktop](https://www.docker.com/products/docker-desktop/)
@@ -117,6 +117,7 @@ Before we start, we would recommend following stack:
     2. Extention: [Dockerfile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
     3. Optional Extention: [Docker Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
+## Workflow
 
 ```mermaid
 graph TD
